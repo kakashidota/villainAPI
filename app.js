@@ -7,7 +7,7 @@ const villians = { allVillians: [{name: "Tri Pack", city:"Chicago", punchLine: "
 {name: "Mr Freeze", city:"Gotham", punchLine: "Freeze, Im Freeze"} ]}
 
 const firstNames = ["Tony", "Pablo", "Joel", "kent", "Jay", "Omar", "Maria", "Katalea"]
-const lastNames = ["Skottlossning", "Sneaöga", "agent", "Panna", "Torpeden", "Kofot", "TV"]
+const lastNames = ["Skottlossning", "testName", "Sneaöga", "agent", "Panna", "Torpeden", "Kofot", "TV"]
 const cities = ["Marbella", "Colombia", "Gårdsten", "Byn", "Bergsjön", "Hammarkullen", "Möllan", "Systembolget"]
 
 
